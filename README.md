@@ -11,5 +11,5 @@ This Facility Management System Project in PHP, in particular, is primarily conc
 * ID      :  YDS7L
 * Password:password
 
-#
+# for Pateint Login details you can add pateint from admin Dashboard and will get the creds. 
 
